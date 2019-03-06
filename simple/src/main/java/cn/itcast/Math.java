@@ -8,5 +8,6 @@ public class Math {
         double y = 3.3;
         System.out.println(x / y);
         System.out.println(x + y);
+        System.out.println("999");
     }
 }
